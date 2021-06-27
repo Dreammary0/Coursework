@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\bin\Debug\Directory.exe.config
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\bin\Debug\Directory.exe
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\bin\Debug\Directory.pdb
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory.exe
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory.pdb
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.DebugFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.GlobalTable_FindFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.GlobalTable_AddFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.MainFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.Properties.Resources.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.OrgNameFindFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.FinderFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.AddOrgFrame.resources
+C:\Users\admin\Desktop\Курсовой проект\Directory_CourseWork\obj\Debug\Directory_CourseWork.AdressFIndFrame.resources
