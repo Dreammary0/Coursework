@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Сайтик обо мне</title>
+  </head>
+  <body>
+    <h1>Основная информация обо мне</h1>
+
+<h2>ФИО</h2>
+<p><b>Сазонтова Мария Дмитриевна <span>&#x1F609</span></b></p>
+<hr>
+
+<h3>Контактная информация</h3>
+<p>Недавно я сменила номер телефона:<a href="tel:+79147982955">8(914)798-29-55</a></p>
+<a href="mailto:sazontova.md@students.dvfu.ru">Типо почта</a></p> 
+<hr>
+
+<h3>Немного фактов обо мне</h3>
+<ul>
+  <li>Мне 20 лет</li>
+  <li><p>Я выросла в городе - 
+   <select name="город">
+     <option value="1">Хабаровск</option>
+     <option value="2">Находка</option>
+     <option value="3">Москва</option>
+     <option value="4">Петропавловск-Камчатский</option>
+   </select>
+  Мы очень часто переезжали( </p> </il>
+  <li>Знак задиака Дева</li>
+  <li><b>Люблю ёжиков</b></li>
+</ul>	
+<img src="https://static.ngs.ru/news/2017/preview/943c1b42289ac8b84427c61e1a3bb0f30dc9ae75_599_399_c.jpg" width="25% alt="Картинка с ежиком">
+<hr>
+
+<h3>Места моего обитания</h3>
+<ol>
+  <li><a href="https://www.instagram.com"target="_blank">Фоточки</a></li>
+  <li><a href="https://readmanga.io/"target="_blank">Книжечки </a></li>
+  <li><a href="https://animego.org/"target="_blank">Мультики</a></li>
+  <li><a href="https=//www.100sp.ru/vladivostok"target="_blank">Шопоголизм </a></li>
+  <li><a href="https://www.youtube.com/?gl=RU&hl=ru"target="_blank">Ролики по саморазвитию -_- </a></li>
+</ol>
+<hr>
+
+
+<img src="https://cdn.fishki.net/upload/post/2018/10/03/2722447/ec5f72df53645320a5590f55851b84ea.gif" width=200 alt="Гифка с ежиком">
+
+<h3>Навыки</h3>
+<dl>
+  <dt>Образование</dt>
+    <dd> Муниципального бюджетного общеобразовательного учреждения гимназия № 8 г.Хабаровска - класс с гуманитарно-лингвистическим уклоном</dd>
+  <dt>Музыка</dt>
+    <dd>7 <s>очень нужных</s> лет по классу шестиструнная гитара в музыкальной школе №4 </dd>
+  <dt>Авто</dt>
+  <dd>Автошкола при автодорожном техникуме Автодор - сдала все с первого раза, чтобы потом права вместо паспорта с собой носить </dd>
+ <dt>Медик</dt>
+  <dd>На случай зомби апокалипсиса и варианта сдавать егэ по биологии прошла курсы первой помощи при КГБУЗ «Городская клиническая больница №10» г.Хабаровск  </dd>
+</dl>
+<hr>
+  </body>
+</html>
