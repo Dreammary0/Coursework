@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Directory_CourseWork.BTree">
+    <Position X="1" Y="0.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Directory_CourseWork.BTree.TreeNode">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalTable\BTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAAEAAAIBAAAAQAAAAAAEIAAAACAAAAARACAA=</HashCode>
+      <FileName>GlobalTable\BTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Directory_CourseWork.LocalInformationHashTable">
+    <Position X="4.25" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Directory_CourseWork.LocalInformationHashTable.TwoLinkedList">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="Directory_CourseWork.LocalInformationHashTable.TwoLinkedList.ListElem">
+            <TypeIdentifier>
+              <NewMemberFileName>LocalTable\HashTable.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>LocalTable\HashTable.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQABgAAAAAAARAIAAAAIAAAAAAAAAEAACAA=</HashCode>
+      <FileName>LocalTable\HashTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
